@@ -1,0 +1,2 @@
+Add some text to the file
+I am doing the git tutorial
